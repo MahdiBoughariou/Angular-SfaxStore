@@ -11,29 +11,23 @@
 ## 📸 Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil] 
 <img width="1845" height="873" alt="home1" src="https://github.com/user-attachments/assets/ca0f919e-5d9c-47c8-84a3-9827587d7cbd" /> 
 <img width="1842" height="875" alt="home2" src="https://github.com/user-attachments/assets/c8241ec6-b465-476c-9c37-897a67126815" /> 
 <img width="1841" height="712" alt="home3" src="https://github.com/user-attachments/assets/8b564739-7c6f-4980-88c8-96b4ad653c3f" />
 
 ### Page Produit
-![Détail produit]
 <img width="1472" height="631" alt="product" src="https://github.com/user-attachments/assets/bd3593c9-d5f0-4f76-b7df-fbe01a403422" />
 
 ### Panier
-![Panier]
 <img width="1697" height="698" alt="cart" src="https://github.com/user-attachments/assets/d25296cd-bbff-4bc3-951e-3f26eab79868" />
 
 ### Checkout
-![Checkout]
 <img width="1663" height="877" alt="checkout" src="https://github.com/user-attachments/assets/1ca6876b-1214-49f9-82f9-84a1075b6b33" />
 
 ### Favoris
-![Favoris]
 <img width="1836" height="662" alt="favorites" src="https://github.com/user-attachments/assets/0c9d8c38-49b8-4575-8618-4667dee3a64c" />
 
 ### Cartes Cadeaux
-![Cartes cadeaux]
 <img width="1836" height="870" alt="gift-cards" src="https://github.com/user-attachments/assets/9fe1a731-a68e-4703-83bc-2cf68184d1f2" />
 
 ---
